@@ -11,7 +11,7 @@
 pnpm i
 ```
 
-For information about how handle dependencies look into [PNPM.md](./PNPM.md).
+For information about how handle dependencies look into [pnpm.md](./pnpm.md).
 
 ### Build for development mode
 
