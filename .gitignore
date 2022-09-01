@@ -1,0 +1,9 @@
+
+# build folders
+dist/
+build/
+
+# dependencies
+node_modules/
+
+.idea/

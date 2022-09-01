@@ -1,0 +1,10 @@
+.header-container {
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+}
+
+.headerText {
+    color: green;
+    background-color: black;
+}

@@ -1,0 +1,6 @@
+.bullet-list-container {
+    margin-top: 100px;
+    position: relative;
+    height: 500px;
+    display: flex;
+}
